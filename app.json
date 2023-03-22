@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Expo-App",
-    "slug": "Expo-App",
+    "name": "prays.sch",
+    "slug": "prays-sch",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,7 +32,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "44473001-c6c0-4788-b9f2-a5cfcdaf7d56"
+        "projectId": "01c31f32-46c4-4013-8ed1-4b7923d32f3b"
       }
     },
     "owner": "hadiarsa"
