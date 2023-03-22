@@ -5,7 +5,7 @@
 ## Deskripsi Aplikasi
 Aplikasi `prays.sch` merupakan aplikasi yang digunakan untuk pengingat waktu sholat dan informasi keutamaan dalam ibadah sholat 5 waktu.
 
-## Dependensi atau Library (Expo)
+## Library (Expo)
 - `@react-navigation/native-stack`: untuk membuat route dan menavigasi di apk React Native dengan membantu memecahkan masalah navigasi di beberapa layar dan berbagi antar layar. 
 - `@react-navigation/native`: untuk membantu memecahkan masalah navigasi di beberapa layar dan berbagi antar layar.
 - `expo`: untuk mendevelop react native
@@ -20,7 +20,7 @@ Aplikasi `prays.sch` merupakan aplikasi yang digunakan untuk pengingat waktu sho
 
 
 ## Cara Instalasi
-Jalakan perintah di bawah ini untuk melakukan instalasi dependensi!
+Jalakan perintah di bawah ini untuk melakukan instalasi library :
 
 ```
 npm install
